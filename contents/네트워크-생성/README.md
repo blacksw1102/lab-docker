@@ -13,4 +13,4 @@ docker network ls
 
 ## then
 
-![img_30.png](..%2Fimages%2Fimg_30.png)
+![img_30.png](..%2F..%2Fimages%2Fimg_30.png)

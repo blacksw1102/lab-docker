@@ -3,9 +3,9 @@
 
 ## given
 
-![img_31.png](..%2Fimages%2Fimg_31.png)
+![img_31.png](..%2F..%2Fimages%2Fimg_31.png)
 
-![img_32.png](..%2Fimages%2Fimg_32.png)
+![img_32.png](..%2F..%2Fimages%2Fimg_32.png)
 
 ## when
 
@@ -17,6 +17,6 @@ docker network inspect my-network
 
 ## then
 
-![img_33.png](..%2Fimages%2Fimg_33.png)
+![img_33.png](..%2F..%2Fimages%2Fimg_33.png)
 
-![img_34.png](..%2Fimages%2Fimg_34.png)
+![img_34.png](..%2F..%2Fimages%2Fimg_34.png)

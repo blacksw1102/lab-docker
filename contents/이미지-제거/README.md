@@ -3,7 +3,7 @@
 
 ## given
 
-![img_13.png](..%2Fimages%2Fimg_13.png)
+![img_13.png](..%2F..%2Fimages%2Fimg_13.png)
 
 ## when
 
@@ -14,4 +14,4 @@ docker images
 
 ## then
 
-![img_14.png](..%2Fimages%2Fimg_14.png)
+![img_14.png](..%2F..%2Fimages%2Fimg_14.png)

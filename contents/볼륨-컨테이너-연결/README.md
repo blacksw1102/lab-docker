@@ -3,9 +3,9 @@
 
 ## given
 
-![img_39.png](..%2Fimages%2Fimg_39.png)
+![img_39.png](..%2F..%2Fimages%2Fimg_39.png)
 
-![img_40.png](..%2Fimages%2Fimg_40.png)
+![img_40.png](..%2F..%2Fimages%2Fimg_40.png)
 
 ## when
 
@@ -25,6 +25,6 @@ docker ps -a --filter volume=my-volume
 
 ## then
 
-![img_41.png](..%2Fimages%2Fimg_41.png)
+![img_41.png](..%2F..%2Fimages%2Fimg_41.png)
 
-![img_43.png](..%2Fimages%2Fimg_43.png)
+![img_43.png](..%2F..%2Fimages%2Fimg_43.png)

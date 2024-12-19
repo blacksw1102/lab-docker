@@ -16,8 +16,8 @@ docker ps
 
 컨테이너 정상 구동 확인
 
-![img_16.png](..%2Fimages%2Fimg_16.png)
+![img_16.png](..%2F..%2Fimages%2Fimg_16.png)
 
 nginx 정상 접근 확인
 
-![img_17.png](..%2Fimages%2Fimg_17.png)
+![img_17.png](..%2F..%2Fimages%2Fimg_17.png)

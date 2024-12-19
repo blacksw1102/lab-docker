@@ -3,7 +3,7 @@
 
 ## given
 
-![img_35.png](..%2Fimages%2Fimg_35.png)
+![img_35.png](..%2F..%2Fimages%2Fimg_35.png)
 
 ## when
 
@@ -15,6 +15,6 @@ docker network ls
 
 ## then
 
-![img_36.png](..%2Fimages%2Fimg_36.png)
+![img_36.png](..%2F..%2Fimages%2Fimg_36.png)
 
-![img_37.png](..%2Fimages%2Fimg_37.png)
+![img_37.png](..%2F..%2Fimages%2Fimg_37.png)

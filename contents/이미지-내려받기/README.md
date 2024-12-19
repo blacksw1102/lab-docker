@@ -14,4 +14,4 @@ docker images
 
 ## then
 
-![img_12.png](..%2Fimages%2Fimg_12.png)
+![img_12.png](..%2F..%2Fimages%2Fimg_12.png)

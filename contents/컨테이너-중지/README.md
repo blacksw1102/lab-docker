@@ -3,8 +3,6 @@
 
 ## given
 
-![img.png](img.png)
-
 ## when
 
 ```
@@ -14,4 +12,4 @@ docker ps -a
 
 ## then
 
-![img_19.png](..%2Fimages%2Fimg_19.png)
+![img_19.png](..%2F..%2Fimages%2Fimg_19.png)

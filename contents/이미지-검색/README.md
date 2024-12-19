@@ -11,4 +11,4 @@ docker search nginx
 
 ## then
 
-![img_15.png](..%2Fimages%2Fimg_15.png)
+![img_15.png](..%2F..%2Fimages%2Fimg_15.png)

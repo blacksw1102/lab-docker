@@ -3,7 +3,7 @@
 
 ## given
 
-![img_20.png](..%2Fimages%2Fimg_20.png)
+![img_20.png](..%2F..%2Fimages%2Fimg_20.png)
 
 ## when
 
@@ -14,4 +14,4 @@ docker ps -a
 
 ## then
 
-![img_21.png](..%2Fimages%2Fimg_21.png)
+![img_21.png](..%2F..%2Fimages%2Fimg_21.png)

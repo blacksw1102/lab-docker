@@ -4,7 +4,7 @@
 
 ## given
 
-![img_24.png](..%2Fimages%2Fimg_24.png)
+![img_24.png](..%2F..%2Fimages%2Fimg_24.png)
 
 ## when
 
@@ -14,4 +14,4 @@ docker exec -it webserver /bin/bash
 
 ## then
 
-![img_25.png](..%2Fimages%2Fimg_25.png)
+![img_25.png](..%2F..%2Fimages%2Fimg_25.png)

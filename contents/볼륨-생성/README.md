@@ -13,4 +13,4 @@ docker volume ls
 
 ## then
 
-![img_38.png](..%2Fimages%2Fimg_38.png)
+![img_38.png](..%2F..%2Fimages%2Fimg_38.png)
