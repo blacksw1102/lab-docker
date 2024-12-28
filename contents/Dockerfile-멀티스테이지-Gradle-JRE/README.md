@@ -26,7 +26,7 @@ ENTRYPOINT ["sh", "-c", "java $JAVA_OPTS -jar myapp-*-SNAPSHOT.jar"]
 docker build -t myapp:0.0.1 .
 docker images
 docker run --name myapp -p 8080:8080 -d myapp:0.0.1
-dockeer ps
+docker ps
 docker exec -it myapp /bin/sh
 ```
 
